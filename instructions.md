@@ -1,5 +1,6 @@
 # InsightGuard - Complete Folder Structure Overview
 
+---
 **APT_RULES_ELK/** - Pre-built ELK detection rules organized by MITRE ATT&CK tactics (reconnaissance, initial access, persistence, privilege escalation, defense evasion, exfiltration) with action connectors for automated response.
 
 **Attack_Scripts/** - APT simulation scripts covering the full kill chain from reconnaissance to exfiltration, including setup utilities, individual attack modules, and complete attack chain execution.
